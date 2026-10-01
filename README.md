@@ -16,6 +16,14 @@ Hi! I'm a high school student preparing for the 2027 Gaokao and exploring progra
 - AI workflow explorations
 - Honest records of problems, solutions, and progress
 
+## Projects
+
+| Project | About | Live Demo |
+|---|---|---|
+| [hnai-ai-app](https://github.com/WangHaonan0355/hnai-ai-app) | AI tool station: chat / image / video + 16 mini-games (Web + Android WebView) | [Demo](https://hnai-app-download.app.workbuddy.host/) |
+| [zhengzhou-east-station-3d](https://github.com/WangHaonan0355/zhengzhou-east-station-3d) | Zhengzhou East Railway Station — single-file Three.js 3D interactive model | [Demo](https://wanghaonan0355.github.io/zhengzhou-east-station-3d/) |
+| [ai-video-toolbox](https://github.com/WangHaonan0355/ai-video-toolbox) | AI video cost calculator (3 platforms) + structured prompt generator | [Demo](https://wanghaonan0355.github.io/ai-video-toolbox/) |
+
 ## Current focus
 
 1. Build a solid foundation in programming
