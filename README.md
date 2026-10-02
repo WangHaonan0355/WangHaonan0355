@@ -21,7 +21,7 @@ Hi! I'm a high school student preparing for the 2027 Gaokao and exploring progra
 | Project | About | Live Demo |
 |---|---|---|
 | [hnai-ai-app](https://github.com/WangHaonan0355/hnai-ai-app) | AI tool station: chat / image / video + 16 mini-games (Web + Android WebView) | [Demo](https://hnai-app-download.app.workbuddy.host/) |
-| [zhengzhou-east-station-3d](https://github.com/WangHaonan0355/zhengzhou-east-station-3d) | Zhengzhou East Railway Station — single-file Three.js 3D interactive model | [Demo](https://wanghaonan0355.github.io/zhengzhou-east-station-3d/) |
+| [lancheng-station-3d](https://github.com/WangHaonan0355/lancheng-station-3d) | Lancheng Station (original fictional hub) — Blender parametric build + single-file interactive 3D preview | [Demo](https://wanghaonan0355.github.io/lancheng-station-3d/) |
 | [ai-video-toolbox](https://github.com/WangHaonan0355/ai-video-toolbox) | AI video cost calculator (3 platforms) + structured prompt generator | [Demo](https://wanghaonan0355.github.io/ai-video-toolbox/) |
 
 ## Current focus
